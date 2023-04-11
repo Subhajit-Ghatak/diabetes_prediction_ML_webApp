@@ -1,0 +1,1 @@
+streamlit run "C:\Users\SUBHAJIT\Desktop\Diabetes App\prediction.py"
