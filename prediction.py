@@ -10,7 +10,7 @@ import streamlit as st
 
 #loading the saved models
 
-diabetes_model = pickle.load(open('C:/Users/SUBHAJIT/Desktop/Diabetes App/diabetes_model.sav', 'rb'))
+diabetes_model = pickle.load(open('diabetes_model.sav', 'rb'))
 
 
 st.title('Diabetes Prediction using ML')
