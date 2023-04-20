@@ -1,4 +1,5 @@
 #Diabetes prediction app using ML
+
 Dataset of diabetes is taken from kaggle- https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset
 
 This dataset contains 'outcome' which is our target attribute. That attribute contains two values 0 and 1. So our machine learning will be based on binary classification.
