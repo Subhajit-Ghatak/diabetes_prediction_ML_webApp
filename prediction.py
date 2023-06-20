@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Apr 10 23:02:06 2023
-
-@author: Subhajit Ghatak
-"""
 import numpy as np
 import pickle
 import streamlit as st
