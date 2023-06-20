@@ -15,10 +15,15 @@ In this project, I've taken a dataset from Kaggle based upon diabetes prediction
 ### Modules Used 
 
 ``` $ pip install numpy ```
+
 ``` $ pip install pandas ```
+
 ``` $ pip install matplotlib ```
+
 ``` $ pip install seaborn ```
+
 ``` $ pip install scikit-learn ```
+
 ``` $ pip install scipy ```
 
 ### Data Description  
@@ -82,4 +87,4 @@ Open cmd in the same path where all the files are located specially `prediction.
 Then paste this command into the cmd and hit enter.
 `streamlit run "prediction.py"`
 
-![](https://github.com/Subhajit-Ghatak/diabetes_prediction_ML_webApp/blob/master/output.png?raw=true)
+![]([https://github.com/Subhajit-Ghatak/diabetes_prediction_ML_webApp/blob/master/output.png?raw=true](https://github.com/Subhajit-Ghatak/diabetes_prediction_ML_webApp/blob/master/images/output.png?raw=true)https://github.com/Subhajit-Ghatak/diabetes_prediction_ML_webApp/blob/master/images/output.png?raw=true)
