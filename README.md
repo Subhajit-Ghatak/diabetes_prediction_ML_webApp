@@ -9,7 +9,7 @@ In this project, I've taken a dataset from Kaggle based upon diabetes prediction
 
 > Dataset taken from Kaggle
 `<link>` <https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset>
-Collab Notebook 
+> Collab Notebook 
 `<link>` <https://colab.research.google.com/drive/1WWA7_xiuKPN4VfYuWnSzhMV5HuB-5AIM?usp=sharing>
 ####
 ## 1. Diabetes_Prediction_Project.ipynb
