@@ -87,4 +87,4 @@ Open cmd in the same path where all the files are located specially `prediction.
 Then paste this command into the cmd and hit enter.
 `streamlit run "prediction.py"`
 
-![]([https://github.com/Subhajit-Ghatak/diabetes_prediction_ML_webApp/blob/master/output.png?raw=true](https://github.com/Subhajit-Ghatak/diabetes_prediction_ML_webApp/blob/master/images/output.png?raw=true)https://github.com/Subhajit-Ghatak/diabetes_prediction_ML_webApp/blob/master/images/output.png?raw=true)
+![](https://github.com/Subhajit-Ghatak/diabetes_prediction_ML_webApp/blob/master/images/output.png?raw=true)
