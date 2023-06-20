@@ -3,7 +3,9 @@
 In this project, I've taken a dataset from Kaggle based upon diabetes prediction. After checking outliers and null values in the dataset proper reduction is done. Using Random Forest Model I've checked important feature and then make a final dataset. Then I've trained 4 models(KNN, Decision Tree, Naive Bayes, Logistic Regression). Compared the accuracy and implemented the User Interface using the most accurate model.
 
 ![](https://storage.googleapis.com/kaggle-datasets-images/3102947/5344155/d4f2d9d63736fff7b6ba10f73774752e/dataset-cover.png?t=2023-04-08-06-42-24)
+
 ---
+
 ####
 ## Resources
 
